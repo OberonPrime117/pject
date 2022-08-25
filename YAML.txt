@@ -1,0 +1,7 @@
+flutter_jailbreak_detection:
+safetynet_attestation:
+http:
+bloc_pattern:
+rxdart:
+google_fonts:
+dio:
